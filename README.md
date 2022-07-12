@@ -1,4 +1,4 @@
-# telebot
+# TeleBot
 Source Bot Telegram Python . . . 
 Paste your toke in token string and run python file !!
 
